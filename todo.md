@@ -1,7 +1,0 @@
-- [x] level 1
-- [x] level 2
-- [x] level 3
-- [ ] level 4
-- [ ] error handling
-- [ ] folder structure
-- [ ] document
